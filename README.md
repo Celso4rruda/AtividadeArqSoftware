@@ -1,0 +1,1 @@
+Projeto do componente Arquitetura de Software
